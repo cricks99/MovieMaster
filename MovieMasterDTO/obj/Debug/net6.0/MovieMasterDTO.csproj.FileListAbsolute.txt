@@ -1,0 +1,12 @@
+M:\GrandCircus\MovieMaster\MovieMasterDTO\bin\Debug\net6.0\MovieMasterDTO.deps.json
+M:\GrandCircus\MovieMaster\MovieMasterDTO\bin\Debug\net6.0\MovieMasterDTO.dll
+M:\GrandCircus\MovieMaster\MovieMasterDTO\bin\Debug\net6.0\MovieMasterDTO.pdb
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\MovieMasterDTO.csproj.AssemblyReference.cache
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\MovieMasterDTO.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\MovieMasterDTO.AssemblyInfoInputs.cache
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\MovieMasterDTO.AssemblyInfo.cs
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\MovieMasterDTO.csproj.CoreCompileInputs.cache
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\MovieMasterDTO.dll
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\refint\MovieMasterDTO.dll
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\MovieMasterDTO.pdb
+M:\GrandCircus\MovieMaster\MovieMasterDTO\obj\Debug\net6.0\ref\MovieMasterDTO.dll
